@@ -1,2 +1,2 @@
 # Survey123
-Survey123 Connect Customised Forms for smart data capture
+Survey123 Connect customised forms for smart data capture
